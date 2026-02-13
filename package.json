@@ -1,0 +1,12 @@
+{
+  "name": "owr-maintenance",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite public",
+    "build": "bash build.sh"
+  },
+  "devDependencies": {
+    "vite": "^6"
+  }
+}
